@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://javifm86.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css",
-    "main.js": "https://javifm86.github.io/task-management-frontend/static/js/main.c851fc24.chunk.js",
-    "main.js.map": "https://javifm86.github.io/task-management-frontend/static/js/main.c851fc24.chunk.js.map",
-    "runtime~main.js": "https://javifm86.github.io/task-management-frontend/static/js/runtime~main.166f75d3.js",
-    "runtime~main.js.map": "https://javifm86.github.io/task-management-frontend/static/js/runtime~main.166f75d3.js.map",
-    "static/js/2.0040a806.chunk.js": "https://javifm86.github.io/task-management-frontend/static/js/2.0040a806.chunk.js",
-    "static/js/2.0040a806.chunk.js.map": "https://javifm86.github.io/task-management-frontend/static/js/2.0040a806.chunk.js.map",
-    "index.html": "https://javifm86.github.io/task-management-frontend/index.html",
-    "precache-manifest.57bfe9badf42628545c64985676af6bb.js": "https://javifm86.github.io/task-management-frontend/precache-manifest.57bfe9badf42628545c64985676af6bb.js",
-    "service-worker.js": "https://javifm86.github.io/task-management-frontend/service-worker.js",
-    "static/css/main.5ac26d30.chunk.css.map": "https://javifm86.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css.map"
+    "main.css": "https://javifm.com/task-management-frontend/static/css/main.5ac26d30.chunk.css",
+    "main.js": "https://javifm.com/task-management-frontend/static/js/main.0c53779e.chunk.js",
+    "main.js.map": "https://javifm.com/task-management-frontend/static/js/main.0c53779e.chunk.js.map",
+    "runtime~main.js": "https://javifm.com/task-management-frontend/static/js/runtime~main.21604a16.js",
+    "runtime~main.js.map": "https://javifm.com/task-management-frontend/static/js/runtime~main.21604a16.js.map",
+    "static/js/2.82047475.chunk.js": "https://javifm.com/task-management-frontend/static/js/2.82047475.chunk.js",
+    "static/js/2.82047475.chunk.js.map": "https://javifm.com/task-management-frontend/static/js/2.82047475.chunk.js.map",
+    "index.html": "https://javifm.com/task-management-frontend/index.html",
+    "precache-manifest.1a845c678ca196dd9b47afb46872925b.js": "https://javifm.com/task-management-frontend/precache-manifest.1a845c678ca196dd9b47afb46872925b.js",
+    "service-worker.js": "https://javifm.com/task-management-frontend/service-worker.js",
+    "static/css/main.5ac26d30.chunk.css.map": "https://javifm.com/task-management-frontend/static/css/main.5ac26d30.chunk.css.map"
   }
 }
